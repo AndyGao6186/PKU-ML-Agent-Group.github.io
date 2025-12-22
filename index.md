@@ -4,9 +4,15 @@ layout: default
 PKU-ML-Agent group advised by [Yuan Li](https://yuanli2333.github.io/) and [Yuyang Liu](https://yuyangsunshine.github.io/index-zh.html) mainly focus on machine learning, reinforcement learning, active learning, data-centric AL, LLMs, Agent and so on.
 ## 2025 FALL (post-merger)
 <p style="color:#d0021b !important; font-weight:700; margin: 16px 0;">
-**[2025-12-19]** The ML Group and the Agent Group merged, ushering in a new era of AI research.
+[2025-12-19] The ML Group and the Agent Group merged, ushering in a new era of AI research.
 </p>
 - **[2025-09-17]** Biomni: A General-Purpose Biomedical AI Agent. [[pdf](./ppt/20250917-Biomni_0917组会_20251222170215.pdf)] Jing-Ya Wang
+- **[2025-10-15]** DEEPSCIENTIST: ADVANCING FRONTIER-PUSHING SCIENTIFIC FINDINGS PROGRESSIVELY. [[pdf](./ppt/20251015-DeepScientist_1015组会.pdf)] Jing-Ya Wang
+- **[2025-11-19]** Biomni: A General-Purpose Biomedical AI Agent. [[pdf](./ppt/20250917-Biomni_0917组会_20251222170215.pdf)] Jing-Ya Wang
+- **[2025-11-26]** Biomni: A General-Purpose Biomedical AI Agent. [[pdf](./ppt/20250917-Biomni_0917组会_20251222170215.pdf)] Jing-Ya Wang
+- **[2025-12-4]** Biomni: A General-Purpose Biomedical AI Agent. [[pdf](./ppt/20250917-Biomni_0917组会_20251222170215.pdf)] Jing-Ya Wang
+- **[2025-12-10]** Biomni: A General-Purpose Biomedical AI Agent. [[pdf](./ppt/20250917-Biomni_0917组会_20251222170215.pdf)] Jing-Ya Wang
+- **[2025-12-17]** Biomni: A General-Purpose Biomedical AI Agent. [[pdf](./ppt/20250917-Biomni_0917组会_20251222170215.pdf)] Jing-Ya Wang
 
 ## 2025 FALL
 - **[2025-09-05]** MemP Exploring Agent Procedural Memory. [[pdf](./ppt/20250905-MemP%20Exploring%20Agent%20Procedural%20Memory.pdf)] Qiu-He Hong
